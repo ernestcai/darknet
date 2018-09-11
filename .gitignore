@@ -18,6 +18,8 @@ submission/
 cfg/
 darknet
 .fuse*
+backup/
+pre_trained/
 
 # OS Generated #
 .DS_Store*

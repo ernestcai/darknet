@@ -1,8 +1,8 @@
 classes= 601
-train  = /home/pjreddie/data/openimsv4/openimages.train.list
+train  = /home/ernest/kaggle/data/OpenImage/darknet/train.txt
 #valid  = coco_testdev
-valid = data/coco_val_5k.list
-names = data/openimages.names
-backup = /home/pjreddie/backup/
+valid = /home/ernest/kaggle/data/OpenImage/darknet/validation.txt
+names = /home/ernest/kaggle/data/OpenImage/darknet/darknet.names
+backup = /home/ernest/kaggle/darknet/backup
 eval=coco
 
