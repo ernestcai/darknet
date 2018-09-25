@@ -3,6 +3,6 @@ train  = /home/ernest/kaggle/data/OpenImage/darknet/train.txt
 #valid  = coco_testdev
 valid = /home/ernest/kaggle/data/OpenImage/darknet/validation.txt
 names = /home/ernest/kaggle/data/OpenImage/darknet/darknet.names
-backup = /home/ernest/kaggle/darknet/backup
+backup = /media/ernest/data/weights/backup
 eval=coco
 
